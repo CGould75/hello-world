@@ -1,6 +1,4 @@
 # hello-world
 my first repository
-</br>
-My first edit
-</br>
-My second edit
+# My first edit
+# My second edit
